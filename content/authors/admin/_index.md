@@ -14,7 +14,7 @@ organizations:
     url: https://www.mech.kuleuven.be/en/pma/research/meco
 
 # Short bio (displayed in user profile at end of posts)
-bio: Passionate about robotics and outer space. Doing research on real-time motion planning and fast model predictive control for robots. Other research topics include execution of control and estimation algorithms on a smartphone-based flight controller for a quadrotor.
+bio: Passionate about robotics and outer space. Researching on real-time motion planning and fast model predictive control for robots. Other research topics include execution of control and estimation algorithms on a smartphone-based flight controller for a quadrotor.
 
 # Interests to show in About widget
 interests:
