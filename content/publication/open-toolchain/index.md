@@ -1,5 +1,5 @@
 ---
-title: "Towards an Open Toolchain for Fast Nonlinear MPC for Serial Robots"
+title: "Towards an open toolchain for fast nonlinear MPC for serial robots"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,15 +12,15 @@ authors:
   - Jan Swevers
 
 # Author notes (optional)
-author_notes:
-  - "Equal contribution"
-  - "Equal contribution"
+# author_notes:
+#   - "Equal contribution"
+#   - "Equal contribution"
 
 date: "2020-07-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-07-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,22 +32,22 @@ publication_types: ["1"]
 publication: In 21st IFAC World Congress
 publication_short: In IFAC 2020
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper presents an open toolchain tailored for deployment of nonlinear model predictive control for serial robots. The toolchain provides a direct workflow from problem definition to solution deployment on a serial robot based on open-source software. Thus, we provide an insightful selection of modules for rigid body dynamics, numerical optimization, and robot control, and a strategy to make them cooperate in a way that is efficient in terms of computation and engineering time. A detailed numerical study is presented for path-following MPC on a 7-degrees-of-freedom robot, showing the efficiency and ease of use of the presented toolchain while comparing its modules with other tools.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper presents an open toolchain tailored for deployment of nonlinear model predictive control for serial robots. The toolchain provides a direct workflow from problem definition to solution deployment on a serial robot based on open-source software.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ""
+url_pdf: "https://lirias.kuleuven.be/handle/123456789/662148"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -59,7 +59,7 @@ url_video: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  # caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
 
@@ -68,18 +68,19 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -87,4 +88,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
