@@ -32,11 +32,11 @@ feature:
     icon: ros
     icon_pack: custom
     name: ROS
-  - description: 50%
+  - description: 40%
     icon: js
     icon_pack: fab
     name: JavaScript
-  - description: 50%
+  - description: 40%
     icon: react
     icon_pack: fab
     name: React (Native)
