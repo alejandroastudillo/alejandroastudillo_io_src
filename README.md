@@ -1,3 +1,20 @@
+Install Homebrew as in `https://docs.brew.sh/Homebrew-on-Linux`
+
+Check that `eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"` is in the bashrc
+
+Install Hugo with `brew install hugo`
+
+Install Go with `brew install go`
+
+Clone this repository
+
+Initialize and update its submodules (./public, and check that it is has checkout the branch 'main')
+
+Build the website with the command `hugo`
+
+View the website in `localhost:1313` with `hugo server`
+
+
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
