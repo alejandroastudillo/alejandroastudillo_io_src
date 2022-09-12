@@ -10,7 +10,7 @@ role: Ph.D. Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KU Leuven
+  - name: MECO Research Team, KU Leuven
     url: https://www.mech.kuleuven.be/en/pma/research/meco
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Alejandro Astudillo obtained a Bachelor’s degree in Electronics Engineering from Universidad del Valle, Colombia, in 2015. He stayed at the same university, in the Industrial Control Research Group, where he held a Young Researcher position, funded by the Colombian Ministry of Science. In 2017, he was hired as a research assistant, also at Universidad del Valle, until he completed his Master’s degree in Automation Engineering the same year. He joined the MECO Research Team at KU Leuven as a PhD researcher in 2018. His research interests focus on strategies for easing the implementation of real time motion planning and control of robot manipulators.
+Alejandro Astudillo received his B.Sc. degree in Electronics Engineering and his M.Sc. degree in Automation Engineering from Universidad del Valle, Colombia, in 2015 and 2017, respectively. He joined the MECO Research Team at KU Leuven as a PhD researcher in 2018. His research interests focus on strategies for reducing the engineering effort and the computational burden of real time motion planning and model predictive control of robotic and complex mechatronic systems.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
