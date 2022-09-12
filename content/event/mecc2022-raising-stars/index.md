@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Raising stars invited talk - MECC 2022"
-event: "Modeling, Estimation and Control Conference MECC 2022"
+# event: "Modeling, Estimation and Control Conference MECC 2022"
 event_url: "https://mecc2022.a2c2.org/"
-location: "The Westin Jersey City Newport"
+location: "Modeling, Estimation and Control Conference (MECC) 2022 "
 address: 
   street: "479 Washington Blvd"
   city: "Jersey City"

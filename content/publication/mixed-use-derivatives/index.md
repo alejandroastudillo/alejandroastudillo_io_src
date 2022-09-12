@@ -42,7 +42,7 @@ featured: true
 #   icon: twitter
 
 url_pdf: "https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS3599678&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&lang=en_US"
-url_code:
+url_code: "https://github.com/alejandroastudillo/urdf2modelcasadi"
 url_dataset:
 url_poster:
 url_project:
