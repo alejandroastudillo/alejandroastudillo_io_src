@@ -14,6 +14,8 @@ Build the website with the command `hugo`
 
 View the website in `localhost:1313` with `hugo server`
 
+Create publications as in `https://wowchemy.com/docs/content/publications/` with `hugo new content/publication/<publication-name>`
+
 
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 

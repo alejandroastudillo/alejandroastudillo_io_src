@@ -17,7 +17,7 @@ authors:
 #   - "Equal contribution"
 
 date: "2020-07-12T00:00:00Z"
-doi: ""
+doi: "10.1016/j.ifacol.2020.12.2683"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-07-12T00:00:00Z"
@@ -40,14 +40,14 @@ summary: This paper presents an open toolchain tailored for deployment of nonlin
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://lirias.kuleuven.be/handle/123456789/662148"
+url_pdf: "https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS3245924&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&lang=en_US"
 url_code: ""
 url_dataset: ""
 url_poster: ""

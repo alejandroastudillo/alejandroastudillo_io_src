@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Engineering Science - Mechanical Engineering
+      institution: KU Leuven, Belgium
+      year: (ongoing)
     - course: M.Sc. in Engineering - Automation
       institution: Universidad del Valle, Colombia
       year: 2018
