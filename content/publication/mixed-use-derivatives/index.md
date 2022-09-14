@@ -21,8 +21,8 @@ publishDate: 2022-09-12T08:40:52+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In the Modeling, Estimation and Control Conference 2021"
-publication_short: "In MECC 2021"
+publication: "Modeling, Estimation and Control Conference 2021"
+publication_short: "MECC 2021"
 
 abstract: "In the context of nonlinear model predictive control (NMPC) for robot manipulators, we address the problem of enabling the mixed and transparent use of algorithmic differentiation (AD) and efficient analytical derivatives of rigid-body dynamics (RBD) to decrease the solution time of the subjacent optimal control problem (OCP). Efficient functions for RBD and their analytical derivatives are made available to the numerical optimization framework CasADi by overloading the operators in the implementations made by the RBD library Pinocchio and adding a derivative-overloading feature to CasADi. A comparison between analytical derivatives and AD is made based on their influence on the solution time of the OCP, showing the benefits of using analytical derivatives for RBD in optimal control of robot manipulators."
 
