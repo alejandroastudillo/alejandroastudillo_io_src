@@ -9,6 +9,12 @@ authors:
   - Wilm Decré
   - Goele Pipeleers
   - Jan Swevers
+
+# Author notes (optional)
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
+
 date: 2022-10-20T19:28:31+02:00
 doi: ""
 
