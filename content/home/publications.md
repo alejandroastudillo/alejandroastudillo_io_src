@@ -3,13 +3,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-active: true
-
 # This file represents a page section.
 headless: true
 
+active: true
+
 # Order that this section appears on the page.
-weight: 89
+weight: 15
 
 title: Recent Publications
 subtitle: ""
@@ -25,19 +25,28 @@ content:
   order: desc
   # Filter on criteria
   filters:
+    folders:
+    - publication
     tag: ""
     category: ""
     publication_type: ""
     author: ""
     exclude_featured: false
+    exclude_future: false
+    exclude_past: false
 design:
   # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 1
+  view: citation
+  columns: '2'
+  # # Choose a view for the listings:
+  # #   1 = List
+  # #   2 = Compact
+  # #   3 = Card
+  # #   4 = Citation (publication only)
+  # view: 1
 ---
+
+
 
 <!-- {{% callout note %}}
 [See all publications >](./publication/)

@@ -43,8 +43,8 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Alejandro Astudillo. This work is licensed under {license}'
-    # notice: '© 2020 - {year} Alejandro Astudillo'
+    # notice: '© {year} Alejandro Astudillo. This work is licensed under {license}'
+    notice: '© 2020 - {year} Alejandro Astudillo'
     license:
       enable: true
       allow_derivatives: false
