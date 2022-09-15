@@ -42,7 +42,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias3646263&context=SearchWebhook&vid=32KUL_KUL:Lirias&search_scope=lirias_profile&tab=LIRIAS&adaptor=SearchWebhook&lang=en"
+url_pdf: "https://lirias.kuleuven.be/retrieve/640748"
 url_code:
 url_dataset:
 url_poster:
