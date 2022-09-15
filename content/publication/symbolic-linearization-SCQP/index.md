@@ -42,7 +42,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS3670574&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&lang=en_US"
+url_pdf: "https://lirias.kuleuven.be/retrieve/651310"
 url_code:
 url_dataset:
 url_poster:
