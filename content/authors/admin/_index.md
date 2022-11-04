@@ -19,8 +19,9 @@ bio: Passionate about robotics and outer space. Researching on real-time motion 
 # Interests to show in About widget
 interests:
   - Robotics
-  - Model Predictive Control
   - Optimization
+  - Model Predictive Control
+  - Motion Planning
 
 # Education to show in About widget
 education:
@@ -67,7 +68,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Alejandro Astudillo received his B.Sc. degree in Electronics Engineering and his M.Sc. degree in Automation Engineering from Universidad del Valle, Colombia, in 2015 and 2017, respectively. He joined the MECO Research Team at KU Leuven as a PhD researcher in 2018. His research interests focus on strategies for reducing the engineering effort and the computational burden of real time motion planning and model predictive control of robotic and complex mechatronic systems.

@@ -2,7 +2,11 @@ Install Homebrew as in `https://docs.brew.sh/Homebrew-on-Linux`
 
 Check that `eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"` is in the bashrc
 
-Install Hugo with `brew install hugo`
+Install Hugo by downloading the deb file from https://github.com/gohugoio/hugo/releases/tag/v0.97.3
+or with
+`brew install hugo` or 
+`brew extract --version=0.97.3 hugo homebrew/cask`
+`brew install hugo@0.97.3`
 
 Install Go with `brew install go`
 
