@@ -33,6 +33,19 @@ weight = 25
 - __Granting Agency:__ RWTH Aachen University - International Academy
 <!-- - __Amount:__ $40,000 CAD -->
 
+### __Travel Grant to Attend the Colombian Conference on Automatic Control (CCAC) 2017__
+
+- __Year:__ 2017
+- __Granting Agency:__ Universidad del Valle
+<!-- - __Amount:__ $40,000 CAD -->
+
+### __Early Career Research Grant for Young Researchers__
+
+- __Year:__ 2016
+- __Granting Agency:__ Colombian Ministry of Science & Universidad del Valle
+<!-- - __Amount:__ $40,000 CAD -->
+
+
 <!-- ### __Graduate Student Innovation Scholars__
 
 - __Year:__ 2017
