@@ -10,8 +10,8 @@ authors:
   - Joris Gillis
   - Goele Pipeleers
   - Jan Swevers
-date: 2022-09-07T14:25:13+02:00
-doi: ""
+date: 2022-11-09T14:25:13+01:00
+doi: "10.1016/j.ifacol.2022.10.498"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-09-14T19:25:13+02:00
@@ -43,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias3769025&context=SearchWebhook&vid=32KUL_KUL:Lirias&search_scope=lirias_profile&tab=LIRIAS&adaptor=SearchWebhook&lang=en"
+url_pdf: "https://doi.org/10.1016/j.ifacol.2022.10.498"
 url_code:
 url_dataset:
 url_poster:
