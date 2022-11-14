@@ -43,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://doi.org/10.1016/j.ifacol.2022.10.498"
+url_pdf: "https://lirias.kuleuven.be/retrieve/669841"
 url_code:
 url_dataset:
 url_poster:
