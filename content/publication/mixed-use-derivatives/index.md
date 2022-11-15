@@ -41,7 +41,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://lirias.kuleuven.be/retrieve/648392"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S240589632102200X/pdf"
 url_code: "https://github.com/alejandroastudillo/urdf2modelcasadi"
 url_dataset:
 url_poster:

@@ -43,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://lirias.kuleuven.be/retrieve/669841"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S2405896322025496/pdf"
 url_code:
 url_dataset:
 url_poster:

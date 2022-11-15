@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS3245924&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&lang=en_US"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S2405896320334455/pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
