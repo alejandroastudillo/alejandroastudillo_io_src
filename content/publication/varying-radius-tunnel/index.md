@@ -9,7 +9,7 @@ authors:
   - Wilm Decré
   - Jan Swevers
 date: 2022-10-03T19:21:46+02:00
-doi: ""
+doi: "10.1016/j.ifacol.2022.11.208"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-09-14T19:21:46+02:00
@@ -41,7 +41,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias3769060&context=SearchWebhook&vid=32KUL_KUL:Lirias&search_scope=lirias_profile&tab=LIRIAS&adaptor=SearchWebhook&lang=en"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S2405896322028518/pdf"
 url_code:
 url_dataset:
 url_poster:
