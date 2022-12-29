@@ -15,8 +15,8 @@ author_notes:
   - "Equal contribution"
   - "Equal contribution"
 
-date: 2022-10-20T19:28:31+02:00
-doi: ""
+date: 2022-12-26T19:28:31+02:00
+doi: "10.1109/IROS47612.2022.9981681"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-09-14T19:28:31+02:00
