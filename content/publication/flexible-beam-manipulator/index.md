@@ -9,7 +9,7 @@ authors:
   - Wilm Decré
   - Jean-Philippe Noël
   - Jan Swevers
-date: 2022-10-02T11:24:39+01:00
+date: 2023-02-02T11:24:39+01:00
 doi: "10.48550/arXiv.2210.00578"
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publishDate: 2022-12-01T11:24:39+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to ICRA 2023"
+publication: "Accepted to ICRA 2023"
 publication_short: ""
 
 abstract: "Fast and safe manipulation of flexible objects with a robot manipulator necessitates measures to cope with vibrations. Existing approaches either increase the task execution time or require complex models and/or additional instrumentation to measure vibrations. This paper develops a model-based method that overcomes these limitations. It relies on a simple pendulum-like model for modeling the beam, open-loop optimal control for suppressing vibrations, and does not require any exteroceptive sensors. We experimentally show that the proposed method drastically reduces residual vibrations -- at least 90% -- and outperforms the commonly used input shaping (IS) for the same execution time. Besides, our method can also execute the task faster than IS with a minor reduction in vibration suppression performance. The proposed method facilitates the development of new solutions to a wide range of tasks that involve dynamic manipulation of flexible objects."
