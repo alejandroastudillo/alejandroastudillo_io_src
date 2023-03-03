@@ -12,16 +12,16 @@ date: 2022-12-16T15:41:42+01:00
 doi: "10.48550/arXiv.2212.02718"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-12-16T15:41:42+01:00
+publishDate: 2023-03-03T18:04:03+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to IFAC World Congress 2023"
+publication: "Accepted to IFAC World Congress 2023"
 publication_short: ""
 
 abstract: "This paper proposes an accelerated version of Feasible Sequential Linear Programming (FSLP): the AA(d)-FSLP algorithm. FSLP preserves feasibility in all intermediate iterates by means of an iterative update strategy which is based on repeated evaluation of zero-order information. This technique was successfully applied to techniques such as Model Predictive Control and Moving Horizon Estimation, but it can exhibit slow convergence. Moreover, keeping all iterates feasible in FSLP entails a large number of additional constraint evaluations. In this paper, Anderson Acceleration (AA(d)) is applied to the zero-order update strategy improving the convergence rate and therefore decreasing the number of constraint evaluations in the inner iterative procedure of the FSLP algorithm. AA(d) achieves an improved contraction rate in the inner iterations, with proven local linear convergence. In addition, it is observed that due to the improved zero-order update strategy, AA(d)-FSLP takes larger steps to find an optimal solution, yielding faster overall convergence. The performance of AA(d)-FSLP is examined for a time-optimal point-to-point motion problem of a parallel SCARA robot. The reduction of the number of constraint evaluations and overall iterations compared to FSLP is successfully demonstrated."

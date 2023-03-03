@@ -17,16 +17,16 @@ date: 2023-02-24T22:04:03+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-02-24T22:04:03+01:00
+publishDate: 2023-03-03T19:04:03+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to IFAC World Congress 2023"
+publication: "Accepted to IFAC World Congress 2023"
 publication_short: ""
 
 abstract: "We present IMPACT, a flexible toolchain for nonlinear model predictive control (NMPC) specification with automatic code generation capabilities. The toolchain reduces the engineering complexity of NMPC implementations by providing the user with an easy-to-use application programming interface, and with the flexibility of using multiple state-of-the-art tools and numerical optimization solvers for rapid prototyping of NMPC solutions. IMPACT is written in Python, users can call it from Python and MATLAB, and the generated NMPC solvers can be directly executed from C, Python, MATLAB and Simulink. An application example is presented involving problem specification and deployment on embedded hardware using Simulink, showing the effectiveness and applicability of IMPACT for NMPC-based solutions."
