@@ -1,34 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Raising stars invited talk - MECC 2022"
-# event: "Modeling, Estimation and Control Conference MECC 2022"
-event_url: "https://mecc2022.a2c2.org/"
-location: "Modeling, Estimation and Control Conference (MECC) 2022 "
-address: 
-  street: "479 Washington Blvd"
-  city: "Jersey City"
-  region: "NJ"
-  postcode: "07310"
-  country: "USA"
-summary: "In this talk, I will present efforts made during my doctoral research to reduce the computational complexity of model predictive control (MPC) implementations for robotic applications and reducing the engineering time required for its deployment."
-abstract: "In this talk, I will present efforts made during my doctoral research to reduce the computational complexity of model predictive control (MPC) implementations for robotic applications and reducing the engineering time required for its deployment."
+title: "Towards real-time MPC of robotic systems with full dynamic models: results, challenges, and opportunities"
+event: 
+event_url:
+location: "Workshop on Challenges and Opportunities in Nonlinear and Constrained Control and Their Applications"
+address:
+  street: "Rue Ducale 1"
+  city: "Brussels"
+  region:
+  postcode: "1000"
+  country: "Belgium"
+summary:
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-10-03T14:00:00-04:00
-date_end: 2022-10-03T14:30:00-04:00
-# date_end: 2022-09-12T09:29:12+02:00
+date: 2023-05-12T09:30:00+01:00
+date_end: 2023-05-12T10:00:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-09-12T09:29:12+02:00
+publishDate: 2023-03-13T10:17:48+01:00
 
 authors: []
 tags: []
 
 # Is this a featured event? (true/false)
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
