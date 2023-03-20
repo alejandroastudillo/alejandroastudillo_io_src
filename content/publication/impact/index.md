@@ -46,7 +46,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://arxiv.org/abs/2303.08850"
 url_code: "https://gitlab.kuleuven.be/meco-software/impact"
 url_dataset:
 url_poster:
