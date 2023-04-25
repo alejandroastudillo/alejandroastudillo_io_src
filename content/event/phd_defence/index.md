@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Fast model predictive control for robotic manipulators: efficient computations and operations"
+title: "Advancing the industrial application of model predictive control for robot manipulators: Improving computational efficiency and facilitating implementation"
 event:
 event_url:
 location: "Ph.D. Public Defence"
