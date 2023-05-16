@@ -28,7 +28,7 @@ education:
   courses:
     - course: Ph.D. in Engineering Science - Mechanical Engineering
       institution: KU Leuven, Belgium
-      year: (ongoing)
+      year: 2023
     - course: M.Sc. in Engineering - Automation
       institution: Universidad del Valle, Colombia
       year: 2018
