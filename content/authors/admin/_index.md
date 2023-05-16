@@ -6,7 +6,7 @@ title: Alejandro Astudillo
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
