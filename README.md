@@ -20,6 +20,8 @@ View the website in `localhost:1313` with `hugo server`
 
 Create publications as in `https://wowchemy.com/docs/content/publications/` with `hugo new content/publication/<publication-name>`
 
+Create events  with `hugo new  --kind event content/event/<event-name>`
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
