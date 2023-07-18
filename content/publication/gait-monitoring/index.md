@@ -9,7 +9,7 @@ authors:
   - Jose Ramirez-Scarpetta
   - Esteban Rosero
 date: 2023-06-27T13:52:54+02:00
-doi: "10.3991/ijoe.v19i08.38781 "
+doi: "10.3991/ijoe.v19i08.38781"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-06-28T13:52:54+02:00
@@ -41,7 +41,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://online-journals.org/index.php/i-joe/article/view/38781"
+url_pdf: "https://online-journals.org/index.php/i-joe/article/view/38781/13441"
 url_code:
 url_dataset:
 url_poster:
