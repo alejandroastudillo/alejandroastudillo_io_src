@@ -14,7 +14,7 @@ address:
 summary:
 abstract: "In this workshop, participants will engage in hands-on exploration of optimal control problems (OCPs) applied to motion planning and model predictive control (MPC) in autonomous robotic systems. By engaging with cutting-edge tools and techniques, participants will develop the skills necessary to navigate complex environments, optimize trajectory paths, and execute tasks with precision and efficiency in robotic systems.
 
-To streamline the guided exercises, the workshop makes use of the free and open-source Rockit [1] and Impact [2][3] software frameworks developed by the MECO Research Team at KU Leuven and built on top of the numerical optimization framework CasADi [4], designed for efficient nonlinear programming.
+To streamline the guided exercises, the workshop makes use of the free and open-source Rockit and Impact software frameworks developed by the MECO Research Team at KU Leuven and built on top of the numerical optimization framework CasADi, designed for efficient nonlinear programming.
 
 Exercises will be mainly in Python, and Docker images containing a development and simulation environment will be provided. Attendees can later adopt the presented open-source software frameworks in their research.
 
